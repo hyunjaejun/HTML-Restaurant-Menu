@@ -2,19 +2,19 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background-color: beige;
+  background-color: lightblue;
   text-align: center;
 }
 
 h1,
 h2 {
-  color: darkred;
+  color: black;
 }
 
 h3,
 p,
 li {
-  color: green;
+  color: navy;
 }
 
 img {
@@ -28,7 +28,7 @@ main {
 }
 
 nav {
-  background-color: beige;
+  background-color: purple;
   padding: 10px;
 }
 
@@ -44,12 +44,12 @@ nav li {
 nav a {
   text-decoration: none;
   font-size: 1.6em;
-  color: green;
+  color: lightblue;
   margin-right: 25px;
 }
 
 nav a:hover {
-  color: darkred;
+  color: lightpink;
 }
 
 #banner {
@@ -65,8 +65,8 @@ nav a:hover {
 
 .service {
   display: inline-block;
-  background-color: white;
-  border: 5px solid green;
+  background-color: lightgray;
+  border: 5px solid purple;
   border-radius: 5px;
   color: darkred;
   font-size: 2em;
